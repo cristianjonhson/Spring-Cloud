@@ -32,6 +32,9 @@ Thumbs.db
 *.war
 *.ear
 
+# Compiled class files
+*.class
+
 # Node modules
 /node_modules/
 
